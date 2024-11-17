@@ -1,0 +1,8 @@
+{
+    "Bot_Token": "",
+    "Bot_Prefix": ";",
+    "Model_Name": "",
+    "Ollama_URL": "http://localhost:11434/api/generate",
+    "output_footer_warning": "`LLMs can make mistakes. Check important info.`",
+    "Bot_Name": ""
+}
